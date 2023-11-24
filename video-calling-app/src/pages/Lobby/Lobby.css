@@ -1,0 +1,64 @@
+body {
+  background-image: url('https://i.pinimg.com/736x/40/ec/d1/40ecd1f9f7fa5b8535538f5fb7936dc7.jpg'); /* Replace with the actual path to your image file */
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  
+}
+
+.lobby-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  /* Add some transparency to the background color */
+  border-radius: 10px;
+  text-align: center;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  background-color: papayawhip;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #04AA6D;
+  color: black;
+  border: 10px;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: pink;
+}
+
+label {
+  color: white;
+  font-weight: bold;
+}
+
+/* Add more styles as needed */
