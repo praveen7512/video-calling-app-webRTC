@@ -18,4 +18,4 @@
 
 1. Clone the repository.
    ```bash
-   git clone [YourGitHubProjectLink.git]
+   git clone https://github.com/praveen7512/video-calling-app-webRTC.git
